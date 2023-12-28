@@ -22,7 +22,7 @@ body {
   will-change: transform;
 }
 
-/* Animations */
+/* Animations - @todo auto generated code */
 .snowfall .snowflake:first-child {
   opacity: 0.0762;
   transform: translate(63.5725vw, -10px) scale(0.8025);
