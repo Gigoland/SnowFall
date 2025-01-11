@@ -1,3 +1,8 @@
+/*!
+ * Snowfall v0.0.1 beta
+ * https://www.Gigoland.com
+ * Released under the MIT License
+ */
 html {
   min-height: 100%;
 }
@@ -8,7 +13,7 @@ body {
 
 /* Container */
 .snowfall {
-  z-index: 100000001;
+  z-index: 100000001 !important;
 }
 
 /* Flakes */
